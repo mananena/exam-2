@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Comment from './Components/Comment.vue';
+import Comment from './Comment.vue';
 
 export default {
   components: { Comment },
