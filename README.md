@@ -1,1 +1,2 @@
-# exam-2
+# vue-app-mananena
+vue-app-mananena created by GitHub Classroom
